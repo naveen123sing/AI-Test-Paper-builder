@@ -1,7 +1,7 @@
 'use client';
 
 import Image from 'next/image';
-import compuLogo from '../Assests/compulogo.png';
+import compuLogo from '../assests/compulogo.png';
 import { DownloadIcon } from './Icon';
 
 type PaperQuestion = {
